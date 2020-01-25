@@ -22,6 +22,7 @@ This app features all the latest tools and practices in mobile development!
 - ⚛️ **Javascript** — A JavaScript library for building user interfaces
 - ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
 - 💹 **Node Js** — A web framework for Node Js
+- ♻️ **Socket IO** — A library for realtime web applications 
 
 ## Getting started
 
