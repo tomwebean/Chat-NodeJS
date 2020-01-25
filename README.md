@@ -17,7 +17,7 @@ CHAT COM NODEJS
 
 ## Features
 [//]: # (Add the features of your project here:)
-This app features all the latest tools and practices in mobile development!
+Esta aplicação foi desenvolvida com as seguintes ferramentas:
 
 - :u6708: **Javascript** — A JavaScript library for building user interfaces
 - 💹 **Node Js** — A web framework for Node Js
