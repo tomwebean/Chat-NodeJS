@@ -24,8 +24,6 @@ This app features all the latest tools and practices in mobile development!
 - ♻️ **Socket IO** — A library for realtime web applications 
 
 
-
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
