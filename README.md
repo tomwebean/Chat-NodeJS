@@ -7,7 +7,7 @@
 CHAT COM NODEJS
 </h1>
 
-<p align="center">Chat em tempo real com NodeJS</p>
+<p align="center">:mailbox_with_mail:Chat em tempo real com NodeJS</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
