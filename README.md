@@ -4,7 +4,7 @@
   <img src="https://www.riosoft.com.br/wp-content/uploads/2019/04/post_chat.png" alt="Chat com NodeJS" width="120">
 <br>
 <br>
-YOUR_PROJECT_NAME
+CHAT COM NODEJS
 </h1>
 
 <p align="center">A little description about your project</p>
