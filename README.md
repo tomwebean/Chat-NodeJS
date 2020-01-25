@@ -23,9 +23,6 @@ This app features all the latest tools and practices in mobile development!
 - 💹 **Node Js** — A web framework for Node Js
 - ♻️ **Socket IO** — A library for realtime web applications 
 
-## Getting started
-
-Describe here the way to use/install your project
 
 
 ## License
