@@ -1,7 +1,7 @@
 
 <h1 align="center">
 <br>
-  <img src="https://imgur.com/a/omPXVq2" alt="Chat com NodeJS" width="120">
+  <img src="https://www.imagemhost.com.br/image/NmHIo" alt="Chat com NodeJS" width="120">
 <br>
 <br>
 CHAT COM NODEJS
