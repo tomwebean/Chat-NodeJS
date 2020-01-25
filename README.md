@@ -1,7 +1,7 @@
 
 <h1 align="center">
 <br>
-  <img src="https://www.riosoft.com.br/wp-content/uploads/2019/04/post_chat.png" alt="Chat com NodeJS" width="120">
+  <img src="https://image.freepik.com/vetores-gratis/icone-de-balao-de-bate-papo_23-2147501656.jpg?1" alt="Chat com NodeJS" width="120">
 <br>
 <br>
 CHAT COM NODEJS
