@@ -7,7 +7,7 @@
 CHAT COM NODEJS
 </h1>
 
-<p align="center">A little description about your project</p>
+<p align="center">Chat em tempo real com NodeJS</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
