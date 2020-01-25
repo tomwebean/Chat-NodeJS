@@ -1,7 +1,7 @@
 
 <h1 align="center">
 <br>
-  <img src="https://image.freepik.com/vetores-gratis/icone-de-balao-de-bate-papo_23-2147501656.jpg?1" alt="Chat com NodeJS" width="120">
+  <img src="https://ibb.co/n8NF1tf" alt="Chat com NodeJS" width="120">
 <br>
 <br>
 CHAT COM NODEJS
