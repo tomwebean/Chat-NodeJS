@@ -15,7 +15,7 @@ CHAT COM NODEJS
   </a>
 </p>
 
-## Features
+##  :floppy_disk: Tecnologias
 [//]: # (Add the features of your project here:)
 Esta aplicação foi desenvolvida com as seguintes ferramentas:
 
