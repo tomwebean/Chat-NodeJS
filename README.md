@@ -1,7 +1,7 @@
 
 <h1 align="center">
 <br>
-  <img src="https://www.riosoft.com.br/wp-content/uploads/2019/04/post_chat.png" alt="Chat com NodeJS" width="580">
+  <img src="https://www.riosoft.com.br/wp-content/uploads/2019/04/post_chat.png" alt="Chat com NodeJS" width="420">
 <br>
 <br>
 CHAT COM NODEJS
